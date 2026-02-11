@@ -1,2 +1,1 @@
-# git-practice
-Learning Git branching and merging
+This line is added in feature-1 branch.
